@@ -3,7 +3,7 @@ This is Alumni_Network Management System using PHP and MySQL
 
 Contents:
 1. PHP-files: contains all the php files to view the system
-2. ALumni_netwrok.sql: An SQL file with table creations and procedures and triggers
+2. Alumni_netwrok.sql: An SQL file with table creations and procedures and triggers
 3. A README file
 
 
